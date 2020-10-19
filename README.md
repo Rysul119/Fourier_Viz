@@ -4,12 +4,12 @@ This repository contains animated visualization of approximated patterns or draw
 
 ### Implemented Approximations
 
- - [Square Wave] (https://Rysul119.github.io/1Fourier_Viz/viz_square.html) 
- - [Sawtooth Wave] (https://Rysul119.github.io/1Fourier_Viz/viz_sawtooth.html)
+ - [Square Wave] (https://rysul119.github.io/1Fourier_Viz) 
+ - [Sawtooth Wave] (https://rysul119.github.io/1Fourier_Viz)
 
 ### Soon to Arrive
 
- - Drawing any shapes or patterns using [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform)
+ - Drawing any shapes or patterns using [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform).
 
 To animate the visualization [p5.js](https://p5js.org/), a JavaScript library for artists and designers, is used. Examples of using p5 are demonstrated in the `HTML` files of this repository. Otherwise, one can add the line below inside the `<head>` tag of their `HTML` file:
 ```html
