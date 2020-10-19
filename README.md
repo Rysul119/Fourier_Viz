@@ -4,8 +4,8 @@ This repository contains animated visualization of approximated patterns or draw
 
 ### Implemented Approximations
 
- - Square Wave
- - Sawtooth Wave
+ - [Square Wave](https://rysul119.github.io/Fourier_Viz/viz_square.html)
+ - [Sawtooth Wave](https://rysul119.github.io/Fourier_Viz/viz_sawtooth.html)
 
 ### Soon to Arrive
 
